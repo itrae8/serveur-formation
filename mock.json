@@ -1,4 +1,40 @@
 {
+    "acteurFilm": [
+        {
+            "id": "al-pacino",
+            "nom": "Al Pacino"
+        },
+        {
+            "id": "brad-pitt",
+            "nom": "Brad Pitt"
+        },
+        {
+            "id": "matt-damon",
+            "nom": "Matt Damon"
+        }
+    ]
+,
+    "acteur": [
+        {
+            "id": "al-pacino",
+            "nom": "Al Pacino",
+            "age": 81,
+            "nationalite": "IT"
+        },
+        {
+            "id": "brad-pitt",
+            "nom": "Brad Pitt",
+            "age": 58,
+            "nationalite": "US"
+        },
+        {
+            "id": "matt-damon",
+            "nom": "Matt Damon",
+            "age": 51,
+            "nationalite": "US"
+        }
+    ]
+,
   "film": [
     {
       "id": "heat",
@@ -31,22 +67,4 @@
       ]
     }
   ]
-,
-    "acteur": [
-        {
-            "id": "al-pacino",
-            "nom": "Al Pacino",
-            "age": 81
-        },
-        {
-            "id": "brad-pitt",
-            "nom": "Brad Pitt",
-            "age": 58
-        },
-        {
-            "id": "matt-damon",
-            "nom": "Matt Damon",
-            "age": 51
-        }
-    ]
 }

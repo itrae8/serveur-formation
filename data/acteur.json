@@ -3,17 +3,20 @@
         {
             "id": "al-pacino",
             "nom": "Al Pacino",
-            "age": 81
+            "age": 81,
+            "nationalite": "IT"
         },
         {
             "id": "brad-pitt",
             "nom": "Brad Pitt",
-            "age": 58
+            "age": 58,
+            "nationalite": "US"
         },
         {
             "id": "matt-damon",
             "nom": "Matt Damon",
-            "age": 51
+            "age": 51,
+            "nationalite": "US"
         }
     ]
 }
